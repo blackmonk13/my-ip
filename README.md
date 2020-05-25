@@ -1,2 +1,4 @@
 # my-ip
-View you puplic ip info from your shell
+View you public ip info from your shell.
+
+## Getting Started
