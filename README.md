@@ -11,3 +11,10 @@ pip install --user -r requirements.txt
 Start by running the console:
 
 `python my-ip.py`
+
+### Optional:
+`echo -e 'alias="/path/to/my-ip.py"' >> .bashrc`
+
+or
+
+`echo -e 'alias="/path/to/my-ip.py"' >> .profile`
