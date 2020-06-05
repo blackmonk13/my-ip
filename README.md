@@ -13,8 +13,8 @@ Start by running the console:
 `python my-ip.py`
 
 ### Optional:
-`echo -e 'alias="/path/to/my-ip.py"' >> .bashrc`
+`echo -e 'alias my-ip="/path/to/my-ip.py"' >> .bashrc`
 
 or
 
-`echo -e 'alias="/path/to/my-ip.py"' >> .profile`
+`echo -e 'alias my-ip="/path/to/my-ip.py"' >> .profile`
